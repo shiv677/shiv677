@@ -66,6 +66,79 @@ Pinned repositories showcase:
 
 - 🌍 Portfolio: https://zynex-studio.vercel.app  
 - 💻 GitHub: https://github.com/shiv677  
+## 🌐 Live Projects
+
+A curated list of real, production-ready websites and UI builds delivered across healthcare, business, luxury, real estate, hospitality, and e-commerce domains.
+
+---
+
+### 🏢 Corporate, Marketing & Business
+- **Arkose Infosoft** – Corporate website & digital services  
+  🔗 https://arkoseinfosoft.in/
+
+- **Arkose Buildcon** – UI/UX redesign for construction & architecture firm  
+  🔗 https://arkose.co.in/
+
+- **Pitch & Play** – Influencer marketing & brand collaboration platform  
+  🔗 https://pitchandplay.in/
+
+---
+
+### 🏥 Healthcare & Wellness
+- **Doctor – Healthy You** – Clinic / healthcare website  
+  🔗 https://doctor-healthy-you-atd4362.public.builtwithrocket.new/pages/homepage.html
+
+- **32 Pearls Dental World** – Custom WordPress website for dental clinic  
+  🔗 https://32pearlsdentalworld.com/
+
+---
+
+### 🛍️ E-Commerce & Retail
+- **EliteShop** – E-commerce store UI  
+  🔗 https://eliteshop-7u97i30.public.builtwithrocket.new/
+
+---
+
+### 💍 Events, Lifestyle & Luxury
+- **Royal Celebrations** – Chandelier gallery & luxury brand website  
+  🔗 https://royalcelebrations.vercel.app/
+
+- **Marriage & Banquet Booking Platform** – Event booking website  
+  🔗 https://glamour-studio-pro-x2yr-8ynacko8c-arkose-infosofts-projects.vercel.app/
+
+- **Glamour Studio Pro** – Makeup studio & beauty services website  
+  🔗 https://glamour-studio-pro.vercel.app/
+
+---
+
+### 🚗 Automotive
+- **Drive – Crafted Stories** – Car reseller website  
+  🔗 https://drive-crafted-stories.vercel.app/
+
+---
+
+### 🍽️ Hospitality & Travel
+- **The Luxe Journey** – Restaurant website  
+  🔗 https://the-luxe-journey-61vk.vercel.app/
+
+- **Gilded Visions Escape** – Hotel & hospitality website  
+  🔗 https://gilded-visions-escape.vercel.app/
+
+---
+
+### 🏢 Real Estate & Education
+- **Arkose Real Estate** – Property & real estate platform  
+  🔗 https://arkoserealestate.vercel.app/
+
+- **Code Mastery** – Coaching / education website  
+  🔗 https://code-mastery-iota.vercel.app/
+
+---
+
+### 🎨 Portfolio & Personal Work
+- **Zynex Studio** – Personal portfolio & UI experiments  
+  🔗 https://zynex-studio.vercel.app/
+
 
 📫 Reach me at: **dimrishiv933@gmail.com**
 
